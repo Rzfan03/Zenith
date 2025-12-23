@@ -1,4 +1,4 @@
-# Zenith IDE v8.9 Pro
+# Zenith IDE v8.8 Pro
 
 Zenith adalah Integrated Development Environment (IDE) berbasis terminal (TUI) yang menggabungkan kecepatan navigasi Miller Columns bergaya Ranger dengan fitur editor teks modern. Proyek ini dirancang untuk efisiensi alur kerja maksimal bagi pengguna yang mengutamakan penggunaan keyboard.
 
