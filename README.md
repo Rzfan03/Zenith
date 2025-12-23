@@ -47,3 +47,11 @@ Jalankan script installer yang tersedia di dalam repositori:
 ```bash
 chmod +x install.sh
 ./install.sh
+```
+
+
+### Uninstall (Linux)
+Untuk menghapus Zenith dari sistem secara bersih, jalankan:
+```bash
+chmod +x uninstall.sh
+./uninstall.sh
