@@ -1,0 +1,2 @@
+# Zenith
+Lightweight code editor
